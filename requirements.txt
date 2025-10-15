@@ -1,0 +1,7 @@
+# === Core Python libraries ===
+time                 # built-in module for timing and delays (no installation required)
+logging              # built-in module for logging messages (no installation required)
+
+# === External dependencies ===
+requests             # HTTP client for sending API requests (e.g., Hugging Face API)
+pyfirmata2           # communication library for Arduino boards via Firmata protocol
