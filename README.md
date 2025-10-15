@@ -1,3 +1,6 @@
+# Arduino Math Trainer with Neural Network Integration Overview
+
+
 Welcome to the **Arduino Blink Project** — your first nightmarish adventure into the world of microcontrollers! ⚡  
 
 This project shows how to make an LED blink on an **Arduino Uno R3** board. 💡  
