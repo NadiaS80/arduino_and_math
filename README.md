@@ -26,7 +26,7 @@ Here’s how to get started with this project:
 ```git clone https://github.com/NadiaS80/arduino_and_math.git```
 
 2. **Navigate to the project directory**  
-```cd aarduino_and_math```  
+```cd arduino_and_math```  
 
 3. **Install dependencies** (if using Python and Firmata)  
 ```pip install pyfirmata```  
